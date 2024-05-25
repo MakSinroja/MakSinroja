@@ -1,8 +1,38 @@
-## ![Profile views](https://gpvc.arturio.dev/MakSinroja)
-
 <p align="center">
     <img src="./assets/knowledge_is_power_image.png" height="300" />
 </p>
+
+## Hi Gitians! 👋 I'm Maulik Sinroja ![](https://komarev.com/ghpvc/?username=MakSinroja&label=Profile+Views&abbreviated=true)
+
+* With over 8+ years of hands-on experience in mobile application development, I have honed my skills in both Flutter and Kotlin, crafting innovative and high-performing apps for diverse industries. My journey in mobile development is marked by a commitment to excellence, creativity, and user-centric design.
+
+* **Flutter Expertise**: Proficient in building robust, scalable, and visually appealing cross-platform applications. Skilled in leveraging Flutter's powerful widgets and tools to deliver seamless user experiences.
+
+* **Kotlin Proficiency**: Strong command over Kotlin, developing native Android applications with clean, efficient, and maintainable code. Experienced in integrating Kotlin with Android Jetpack components for enhanced app functionality.
+
+* **Comprehensive Project Lifecycle Management**: Successfully managed end-to-end development cycles, from initial concept and design through to deployment and post-launch support. Known for delivering projects on time and within budget while maintaining high-quality standards.
+
+* **Team Collaboration and Leadership**: Proven ability to work effectively in agile environments, collaborating with designers, product managers, and other developers. Experienced in leading development teams and mentoring junior developers to achieve collective success.
+
+* **Problem-Solving Skills**: Strong analytical skills with a track record of diagnosing and resolving complex issues. I continuously seek out new technologies and best practices to enhance app performance and user satisfaction.
+
+* I am dedicated to staying at the forefront of mobile technology trends and consistently enhancing my skills to deliver cutting-edge solutions. My goal is to create impactful and user-friendly mobile applications that not only meet but exceed client expectations.
+
+## Technical Skills
+
+![Language](https://img.shields.io/badge/Languages-%20?style=flat&logo=java&logoColor=white&color=black) ![Dart](https://img.shields.io/badge/Dart-%20?style=flat&logo=dart&logoColor=white&color=green) ![Kotlin](https://img.shields.io/badge/Kotlin-%20?style=flat&logo=kotlin&logoColor=white&color=green) ![Java](https://img.shields.io/badge/Java-%20?style=flat&logo=java&logoColor=white&color=green) ![Swift](https://img.shields.io/badge/Swift-%20?style=flat&logo=swift&logoColor=white&color=green)
+
+![Frameworks](https://img.shields.io/badge/Frameworks-%20?style=flat&logo=java&logoColor=white&color=black) ![Flutter](https://img.shields.io/badge/Flutter-%20?style=flat&logo=flutter&logoColor=white&color=green) ![Android SDK](https://img.shields.io/badge/Android%20SDK-%20?style=flat&logo=android&logoColor=white&color=green)
+
+![Tools](https://img.shields.io/badge/Tools-%20?style=flat&logo=java&logoColor=white&color=black) ![Android Studio](https://img.shields.io/badge/Android%20Studio-%20?style=flat&logo=androidStudio&logoColor=white&color=green) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%20?style=flat&logo=intellijidea&logoColor=white&color=green) ![Xcode](https://img.shields.io/badge/Xcode-%20?style=flat&logo=xcode&logoColor=white&color=green) ![Git](https://img.shields.io/badge/Git-%20?style=flat&logo=git&logoColor=white&color=green) ![Jenkins](https://img.shields.io/badge/Jenkins-%20?style=flat&logo=jenkins&logoColor=white&color=green) ![Firebase](https://img.shields.io/badge/Firebase-%20?style=flat&logo=firebase&logoColor=white&color=green)
+
+![Databases](https://img.shields.io/badge/Databases-%20?style=flat&logo=java&logoColor=white&color=black) ![SQLite](https://img.shields.io/badge/SQLite-%20?style=flat&logo=sqlite&logoColor=white&color=green) ![MySQL](https://img.shields.io/badge/MySQL-%20?style=flat&logo=mysql&logoColor=white&color=green) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%20?style=flat&logo=postgresql&logoColor=white&color=green) ![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-%20?style=flat&logo=firebase&logoColor=white&color=green) ![etc](https://img.shields.io/badge/etc-%20?style=flat&logo=java&logoColor=white&color=green).
+
+![APIs](https://img.shields.io/badge/APIs-%20?style=flat&logo=java&logoColor=white&color=black) ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%20?style=flat&logo=java&logoColor=white&color=green) ![GraphQL](https://img.shields.io/badge/GraphQL-%20?style=flat&logo=graphql&logoColor=white&color=green)
+
+![Designs](https://img.shields.io/badge/Designs-%20?style=flat&logo=java&logoColor=white&color=black) ![UI/UX Design](https://img.shields.io/badge/UI/UX%20Design-%20?style=flat&logo=materialdesign&logoColor=white&color=green) ![Material Design](https://img.shields.io/badge/Material%20Design-%20?style=flat&logo=materialdesign&logoColor=white&color=green) ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%20?style=flat&logo=materialdesign&logoColor=white&color=green)
+
+![Methodologies](https://img.shields.io/badge/Methodologies-%20?style=flat&logo=java&logoColor=white&color=black) ![Agile](https://img.shields.io/badge/Agile-%20?style=flat&logo=testcafe&logoColor=white&color=green) ![Scrum](https://img.shields.io/badge/Scrum-%20?style=flat&logo=testcafe&logoColor=white&color=green) ![TDD](https://img.shields.io/badge/TDD-%20?style=flat&logo=testcafe&logoColor=white&color=green) ![CI/CD](https://img.shields.io/badge/CI/CD-%20?style=flat&logo=testcafe&logoColor=white&color=green)
 
 ## Know more about me
 
@@ -16,52 +46,8 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 ## GitHub Stats
 
-![Maulik's github stats](https://github-readme-stats.vercel.app/api?username=maksinroja&theme=merko&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)
+![Maulik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksinroja&theme=merko&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)
 
-![Maulik's gitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=maksinroja&theme=merko&hide_border=true)
+![Maulik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maksinroja&theme=merko&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakSinroja&layout=compact&theme=merko&hide_border=true)
-
-## Hi Gitians! 👋 I'm Maulik Sinroja
-
-* A Mobile Application Developer with nearly 5+ years of experience in Application Development, Maintenance & Support, and Project Execution.
-
-* Also started to learn the HTML 5 Game Development (Beginner) & Laravel API development (Beginner).
-
-* Also, I have nearly 2+ years of experience (including 5+ years) in Flutter Application, Maintenance & Support, and Project Execution.
-
-* Self-learner of Kotlin and Flutter and easy to able to develop the application in both platforms of Android and iOS.
-
-* Adept in analyzing information system needs, evaluating end-user requirements, custom designing solutions, troubleshooting for complex information systems management.
-
-* Experienced in working with clients, business managers, and technical teams for executing concurrent projects.
-
-* Proficiency in technical documentation, design, development, and troubleshooting for Mobile Application Development (using Java, Kotlin, and Flutter Application).
-
-* Experienced with Hilt, Koin, Kotlin-DSL, Dagger, Coroutines, Retrofit, LifeCycle, Room Database, WorkManager, and easily implement into the technical code.
-
-* Experienced in designing and developing mobile SDK and integrating mobile apps with web services and external APIs.
-
-* Experience working with remote data RESTful APIs and JSON concepts to connect Android applications to back-end services providers and also know about third-party APIs working.
-
-* A clear and concise writer of communications and development documentation.
-
-* Knowledgeable about back-end development and documentation.
-
-* Optimize the interfacing of the apps with a variety of systems to ensure flexible and agile use.
-
-* Good Understanding of Google Material Design Concept for Android UI principles, patterns, and how to deal with Material Design principles.
-
-* Experience with offline storage (SQLite Database & Room Database) and performance tuning.
-
-* Experience with Google Firebase concept of Push Notification, Crashlytics, Analytics, Performace, Firebase Hosting and etc.
-
-* Experience with Google AdMobs integration into the Kotlin and Flutter application.
-
-* Familiarity with code versioning tools, such as the GIT, BitBucket, GitLab.
-
-* Concept to know about the MVVM, MVC, and MVP.
-
-* Responsible for successfully designing and managing the delivery of mobile solutions and technologies. Deliver mobile platform and architecture recommendations based on project requirements and industry best practices.
-
-* Well-versed with Android Application Development.
