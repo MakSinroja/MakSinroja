@@ -50,4 +50,4 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakSinroja&layout=compact&theme=merko&hide_border=true)
 
-![Maulik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MakSinroja&theme=merko&hide_border=true)
+![Maulik GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MakSinroja&theme=merko&hide_border=true)
